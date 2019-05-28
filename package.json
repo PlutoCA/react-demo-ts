@@ -34,8 +34,12 @@
   "devDependencies": {
     "babel-plugin-import": "^1.11.0",
     "customize-cra": "^0.2.12",
+    "less-loader": "^5.0.0",
     "node-sass": "^4.11.0",
+    "postcss-loader": "^3.0.0",
     "react-app-rewired": "^2.1.1",
+    "sass-loader": "^7.1.0",
+    "sass-resources-loader": "^2.0.1",
     "webpack-bundle-analyzer": "^3.3.2"
   }
 }
